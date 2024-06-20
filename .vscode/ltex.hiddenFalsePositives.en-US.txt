@@ -1,0 +1,1 @@
+{"rule":"MASS_AGREEMENT","sentence":"^\\QInstallation\nfollow the Flutter installation guide for your system.\\E$"}
